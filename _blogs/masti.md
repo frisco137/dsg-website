@@ -4,7 +4,7 @@ layout: single
 permalink: /blogs/masti/
 ---
 
-*How to write a punchy, readable paper explainer.*
+*This *is* the template blog and also a suggestive guide for paper to blog conversion (which only got created beacuse i didn't understand what template meant in gbm hehe), also anyone see how i got meta here muahahaha ;)*
 
 ## Cold Open
 Target length can be around 1500 words. Some math is fine, static images only. At that length you can't fit a full lit review or a full proof walkthrough, so need to cut kaafi. Before writing any of this I looked at how some blogs I personally like handle paper explainers: Lilian Weng's stuff, Distill.pub, Jay Alammar's blogs, etc. 
