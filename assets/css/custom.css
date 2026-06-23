@@ -82,3 +82,13 @@
   background-color: #0059b3;
 }
 
+/* Research Card Blog Link Button */
+.research-links a.btn-blog {
+  background: #10b981; /* Premium emerald green */
+}
+
+.research-links a.btn-blog:hover {
+  background: #059669;
+}
+
+
