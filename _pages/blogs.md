@@ -198,7 +198,7 @@ layout: splash
 
   <div class="blog-grid">
     <div class="blog-card">
-      <img src="{{ site.baseurl }}/assets/images/blogs/data_science_congress_blog.png" alt="Masti" class="blog-img">
+      <img src="{{ site.baseurl }}/assets/images/dsgteam25.jpeg" alt="Masti" class="blog-img">
       <h3><a href="{{ site.baseurl }}/blogs/masti">Masti</a></h3>
       <p class="excerpt">A test research blog containing lorem ipsum text to verify manual blog creation and cross-linking.</p>
     </div>
