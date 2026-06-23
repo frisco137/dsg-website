@@ -1,10 +1,10 @@
 ---
-title: "A Rough Template for Paper to Blog"
+title: "A Rough Template for Paper to Blog and Why You'll never be Enough "
 layout: single
 permalink: /blogs/masti/
 ---
 
-*This *is* the template blog and also a suggestive guide for paper to blog conversion (which only got created beacuse i didn't understand what template meant in gbm hehe), also anyone see how i got meta here muahahaha ;)*
+*This *is* the template blog and also a suggestive guide for paper to blog conversion (which only got created beacuse i didn't understand what template meant in gbm hehe).*
 
 ## Cold Open
 Target length can be around 1500 words. Some math is fine, static images only. At that length you can't fit a full lit review or a full proof walkthrough, so need to cut kaafi. Before writing any of this I looked at how some blogs I personally like handle paper explainers: Lilian Weng's stuff, Distill.pub, Jay Alammar's blogs, etc. 
@@ -39,6 +39,6 @@ Also avoid things that might feel a bit too casual for this: meme speak, "this i
 
 ## Closing Block
 * **Paper Title**: A Rough Template for Paper to Blog
-* **Authors**: DSG Contributors
-* **Venue**: DSG Internal Guides
+* **Authors**: Chintu Badmosh 
+* **Venue**: International Conference for Whimsy and Tomfoolery. 
 * **Links**: [Paper Link](https://arxiv.org/abs/xxxx) | [Code Repository](https://github.com/frisco137/dsg-website)
