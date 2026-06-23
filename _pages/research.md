@@ -146,19 +146,6 @@ layout: splash
     </div>
   </div>
 
-  <!-- ChebNet Publication with Blog -->
-  <div class="research-card" data-conf="iclr">
-    <img src="{{ site.baseurl }}/assets/images/Chebnet.jpg" alt="ChebNet">
-    <h3>ChebNet: CNN on Graphs with Fast Localized Spectral Filtering</h3>
-    <p>Spectral graph convolution technique that uses Chebyshev polynomial approximation to parameterize localized filters on graph structured data.</p>
-    <span class="conf-tag iclr">ICLR</span>
-    <div class="research-links">
-      <a href="https://arxiv.org/abs/1606.09375" target="_blank">Paper</a>
-      <a href="https://github.com/dsgiitr/graph_nets" target="_blank">GitHub</a>
-      <a href="{{ site.baseurl }}/blogs/chebnet" class="btn-blog">Blog</a>
-    </div>
-  </div>
-
   <!-- Paper 15 -->
   <div class="research-card" data-conf="iclr">
     <img src="{{ site.baseurl }}/assets/images/research/bdense.png" alt="Paper 15">
