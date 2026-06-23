@@ -35,7 +35,7 @@ Also avoid things that might feel a bit too casual for this: meme speak, "this i
 * I personally felt that one important sentence/idea per paragraph actually works quite well.
 * And then there is this general writing advice that goes by maintaining cadence, which is to basically keep varying your sentence lengths, mixing short ones with longer ones instead of keeping them all the same. It kinda mimics how you'd naturally breathe and talk, so feels nice to read.
 
-*Feel free to add/remove from any of this. This is just a first pass; edit stuff directly if you want, this has edit access in general.*
+*Feel free to add/remove from any of this. 
 
 ## Closing Block
 * **Paper Title**: A Rough Template for Paper to Blog
