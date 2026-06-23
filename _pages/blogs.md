@@ -198,6 +198,11 @@ layout: splash
 
   <div class="blog-grid">
     <div class="blog-card">
+      <img src="{{ site.baseurl }}/assets/images/blogs/data_science_congress_blog.png" alt="Masti" class="blog-img">
+      <h3><a href="{{ site.baseurl }}/blogs/masti">Masti</a></h3>
+      <p class="excerpt">A test research blog containing lorem ipsum text to verify manual blog creation and cross-linking.</p>
+    </div>
+    <div class="blog-card">
       <img src="{{ site.baseurl }}/assets/images/blogs/activation/af.png" alt="Activation functions - Aayan Yadav" class="blog-img">
       <h3><a href="https://medium.com/@ydvaayan/activation-functions-b28c9083c0f3">Activation functions: Blogathon 2023</a></h3>
       <p class="excerpt">Find out how neural networks mimic the human brain to make decisions using activation functions, to help improve accuracy and learning efficiency.</p>

@@ -134,6 +134,18 @@ layout: splash
 
   <!-- TODO: Add 1 more ICLR paper/blogpost once authors share the link. -->
 
+  <!-- Masti Paper -->
+  <div class="research-card" data-conf="iclr">
+    <img src="{{ site.baseurl }}/assets/images/research/blogpost.png" alt="Masti">
+    <h3>Masti</h3>
+    <p>A placeholder research entry to verify that preview changes are compiled and deployed correctly on our temporary preview setup.</p>
+    <span class="conf-tag iclr">ICLR</span>
+    <div class="research-links">
+      <a href="https://github.com/frisco137/dsg-website" target="_blank">Repository</a>
+      <a href="{{ site.baseurl }}/blogs/masti">Blog</a>
+    </div>
+  </div>
+
   <!-- ChebNet Publication with Blog -->
   <div class="research-card" data-conf="iclr">
     <img src="{{ site.baseurl }}/assets/images/Chebnet.jpg" alt="ChebNet">
