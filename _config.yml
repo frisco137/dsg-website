@@ -24,9 +24,9 @@ title_separator          : "-"
 subtitle                 : "Code Train Predict" # site tagline that appears below site title in masthead
 name                     : #"Your Name"
 description              : #"An amazing website"
-url                      : "https://dsgiitr.in" #"https://dsgiitr.github.io" # the primary public hostname; use _config.iitr.yml when building for dsg.iitr.ac.in
-baseurl                  : "" #"/dsg-website" # the subpath of your site, e.g. "/blog"
-repository               : "dsgiitr/dsg-website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "https://frisco137.github.io"
+baseurl                  : "/dsg-website"
+repository               : "frisco137/dsg-website"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : /assets/images/dsg-logo.png
 masthead_title           : "Data Science Group IIT Roorkee"# overrides the website title displayed in the masthead, use " " for no title
